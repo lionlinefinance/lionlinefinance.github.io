@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkexample_react_intl=self.webpackChunkexample_react_intl||[]).push([[883],{9616:function(e,t,n){n.r(t);var l=n(7294),a=n(9785),r=n(7198),u=n(6179);t.default=function(){var e=(0,a.Z)();return l.createElement(r.Z,null,l.createElement(u.Z,{title:"404"}),l.createElement("h1",null,e.formatMessage({id:"notFound"})))}}}]);
+//# sourceMappingURL=component---src-pages-404-js-c1cce2226493dd7daa01.js.map
